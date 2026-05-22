@@ -904,6 +904,5 @@ with tab4:
                 </div>
                 """, unsafe_allow_html=True)
                 st.markdown('<div class="srh-divider"></div>', unsafe_allow_html=True)
-    st.markdown('<p class="section-title">PERFORMANCE BY VENUE</p>', unsafe_allow_html=True)
 
     
